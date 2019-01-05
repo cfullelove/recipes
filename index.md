@@ -11,7 +11,9 @@ title: Recipe Repository
 {% for recipe in site.recipes | %}
 ## {{ recipe.title }}
 
-`{{ recipe | inspect }}`
+```
+{{ recipe | inspect }}
+```
 
 {% endfor %}
 
@@ -20,6 +22,6 @@ title: Recipe Repository
 - Directory: {{ site.recipes.directory }}
 - Relative Directory: {{ site.recipes.relative_directory}}
 
-{{ site.recipes | inspect }}
-
+```
 {{ site.collections | inspect }}
+```
