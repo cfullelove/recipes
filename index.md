@@ -8,6 +8,11 @@ title: Recipe Repository
 - [{{ recipe.title }} - ({{recipe.tags}})]({{ recipe.url | relative_url }})
 {% endfor %}
 
+## Debug
+
+
+{{ site.collections | inspect }}
+
 {% for recipe in site.recipes | %}
 ## {{ recipe.title }}
 
@@ -16,12 +21,3 @@ title: Recipe Repository
 ```
 
 {% endfor %}
-
-## Debug
-
-- Directory: {{ site.recipes.directory }}
-- Relative Directory: {{ site.recipes.relative_directory}}
-
-```
-{{ site.collections | inspect }}
-```
