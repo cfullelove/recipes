@@ -2,8 +2,8 @@
 title: Recipe Repository
 ---
 
+# Recipes
+
 {% for recipe in site.recipes | %}
-    <p>
-        <a href="{{ recipe.url}}">{{ recipe.title }} - ({{recipe.tags}})</a>
-    </p>
+- [{{ recipe.title }} - ({{recipe.tags}})]({{ recipe.url}})</a>
 {% endfor %}
