@@ -3,4 +3,5 @@ theme: jekyll-theme-minimal
 exclude: template.md
 
 collections:
-  - recipes
+  recipes:
+    output: true
