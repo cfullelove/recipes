@@ -9,4 +9,13 @@ layout: default
     <b>Tags</b>: {{ page.tags }}<br />
 </p>
 
+<p>
+    <b>Related: </b>
+    <ul>
+        {% for recipe in page.related | sort %}
+        <li><a href='{{ recipe | replace ".md", "" }}'>{{ recipe | replace ".md", "" }}</a></li>
+        {% endfor %}
+    </ul>
+</p>
+
 {{ content }}

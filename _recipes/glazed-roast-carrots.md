@@ -3,7 +3,8 @@ title: Glazed Roast Carrots
 tags: roast, christmas
 source: https://www.recipetineats.com/brown-sugar-glazed-carrots/
 
-related: lamb-shoulder-roast.md
+related:
+    - lamb-shoulder-roast.md
 ---
 
 The most amazing quick and easy roasted carrots! Roasting brings out the best in carrots, always. And the caramelised edges are the BEST - it's the only way I make Glazed Carrots!

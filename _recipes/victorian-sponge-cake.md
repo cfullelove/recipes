@@ -3,7 +3,8 @@ title: Victorian Sponge Cake
 tags: cake, trifle
 source: Rosy’s baking book
 
-related: traditional-christmas-trifle.md
+related:
+    - traditional-christmas-trifle.md
 ---
 
 # Applications

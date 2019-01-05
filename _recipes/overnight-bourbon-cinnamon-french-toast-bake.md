@@ -3,7 +3,8 @@ title: Overnight Bourbon Cinnamon  French Toast Bake
 tags: christmas, desserts
 source: https://www.thechunkychef.com/overnight-bourbon-cinnamon-french-toast-bake/#wprm-recipe-container-8509
 
-related: kitchenaid-vanilla-icecream.md
+related:
+    - kitchenaid-vanilla-icecream.md
 ---
 
 # Ingredients

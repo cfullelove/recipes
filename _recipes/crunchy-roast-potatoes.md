@@ -3,7 +3,8 @@ title: Crunchy Roast Potatoes
 tags: roast, christmas
 source: https://www.recipetineats.com/truly-crunchy-roast-potatoes
 
-related: lamb-shoulder-roast.md
+related:
+    - lamb-shoulder-roast.md
 ---
 
 Roast potatoes that have a thick, crunchy crust and are soft and fluffy on the inside. Based on a Nigella Lawson recipe, except she uses goose fat instead of cooking oil. Directions for her recipe are included in the notes. You can cut down on the fat if you want, but the less the oil, the thinner the crunchy crust and the less crunchy it will be. I do not recommend reducing it less than 1/3 cup. These potatoes are the perfect accompaniment to the Slow Roasted Rosemary Garlic Lamb Shoulder and can be made while the lamb is resting

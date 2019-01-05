@@ -3,7 +3,8 @@ title: Cabbage Salad
 tags: roast, christmas
 source: https://www.recipetineats.com/everyday-cabbage-salad/
 
-related: lamb-shoulder-roast.md
+related:
+    - lamb-shoulder-roast.md
 ---
 
 Goes with practically anything. Think of it like Coleslaw - minus the mayo dressing. Great with light foods like seafood, and refreshing with hearty foods like stews and roasts. Chop the cabbage and keep in the fridge with the dressing in a jar, lasts for up to a week! Use just cabbage, and any colours you please. Can't-Stop-Eating-It-Delicious! 

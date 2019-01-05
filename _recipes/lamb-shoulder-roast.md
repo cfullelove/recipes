@@ -3,7 +3,8 @@ title: Slow Cooked Lamp Shoulder
 tags: roast, christmas
 source: https://www.recipetineats.com/slow-roasted-rosemary-garlic-lamb-shoulder/
 
-related: crunchy-roast-potatoes.md
+related:
+    - crunchy-roast-potatoes.md
 ---
 
 Lamb shoulder is cheaper, juicier and easier to roast than leg. Infused with rosemary garlic flavours, this is not the sort of roast for craving, just pull the meat off with tongs. Make Truly Crunchy Roast Potatoes while the lamb is resting

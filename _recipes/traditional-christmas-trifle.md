@@ -2,7 +2,8 @@
 title: Traditional Christmas Trifle
 tags: trifle, christmas
 
-related: victorian-sponge-cake.md
+related:
+    - victorian-sponge-cake.md
 ---
 
 # Ingredients

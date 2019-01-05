@@ -3,7 +3,8 @@ title: Parmesan Roasted Green Beans
 tags: roast, christmas
 source: https://www.recipetineats.com/parmesan-roasted-green-beans
 
-related: lamb-shoulder-roast.md
+related:
+    - lamb-shoulder-roast.md
 ---
 
 The most amazing SUPER SPEEDY way to prepare fresh green beans!! Tender crisp garlic green beans with terrific crunch from breadcrumbs and savoury from parmesan. Be prepared to fight over the little parmesan wafers - the are the gold nuggets!!
