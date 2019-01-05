@@ -13,7 +13,7 @@ layout: default
     <b>Related: </b>
     <ul>
         {% for recipe in page.related | sort %}
-        <li><a href='{{ recipe | replace ".md", "" }}'>{{ recipe | replace ".md", "" }}</a></li>
+        <li><a href='{{ recipe | replace: ".md", "" }}'>{{ recipe | replace: ".md", "" }}</a></li>
         {% endfor %}
     </ul>
 </p>
