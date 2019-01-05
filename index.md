@@ -8,4 +8,4 @@ title: Recipe Repository
 |---|---|
 {% for recipe in site.recipes | sort -%}
 | [{{ recipe.title }}]({{ recipe.url | relative_url }}) | {{recipe.tags}} |
-{%- endfor -%}
+{% endfor -%}
