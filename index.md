@@ -4,20 +4,8 @@ title: Recipe Repository
 
 # Recipes
 
+| Recipe            | Tags          |
+| -                 | -             |
 {% for recipe in site.recipes | %}
-- [{{ recipe.title }} - ({{recipe.tags}})]({{ recipe.url | relative_url }})
-{% endfor %}
-
-## Debug
-
-
-{{ site.collections | inspect }}
-
-{% for recipe in site.recipes | %}
-## {{ recipe.title }}
-
-```
-{{ recipe | inspect }}
-```
-
+| [{{ recipe.title }}]({{ recipe.url | relative_url }}) | {{recipe.tags}} |
 {% endfor %}
