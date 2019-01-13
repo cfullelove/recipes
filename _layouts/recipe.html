@@ -24,7 +24,7 @@ layout: default
 
 <!--
 {%- for item in page %}
-    {% assign blacklist = "contents,previous,next" | slit: "," %}
+    {% assign blacklist = "contents,previous,next,output" | slit: "," %}
     {% unless blacklist contains item %}
         {{ item }} : {{ page[item]}}
     {% endunless %}
