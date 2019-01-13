@@ -8,7 +8,7 @@ layout: default
     {%- if page.source | size > 0 -%}
         <b>Source</b>: <a href="{{ page.source }}">{{ page.source }}</a><br />
     {%- endif -%}
-    <b>Tags</b>: {{ page.tags | join: ", " }}<br />
+    <b>Tags</b>: {{ page.tags }}<br />
 </p>
 
 {% if page.related | size > 0 %}
