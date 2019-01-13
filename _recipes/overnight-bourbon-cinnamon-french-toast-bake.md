@@ -7,6 +7,8 @@ related:
     - kitchenaid-vanilla-icecream.md
 ---
 
+![image]({{ page.image_dir }}/{{ page.slug }}/2018-12-23.jpg)
+
 # Ingredients
 
 ## Pudding

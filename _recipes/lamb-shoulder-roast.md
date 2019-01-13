@@ -9,6 +9,8 @@ related:
 
 Lamb shoulder is cheaper, juicier and easier to roast than leg. Infused with rosemary garlic flavours, this is not the sort of roast for craving, just pull the meat off with tongs. Make Truly Crunchy Roast Potatoes while the lamb is resting
 
+![image]({{ page.image_dir }}/{{ page.slug }}/2018-12-23.jpg)
+
 # Summary
 
 * **Prep Time**: 15 minutes
