@@ -8,7 +8,7 @@ An easy keto low carb chili recipe without beans. Instructions for a Crock Pot s
 
 ![cover]({{ page.image_dir }}/{{ page.name | replace: ".md", "" }}/cover.jpg)
 
-{{ page.name }}
+Page : {{ page.name }}
 
 # Summary
 
@@ -65,3 +65,6 @@ Protein         | 23g           |
 Total Fat       | 18g           |
 Total Carbs     | 13g           |
 Sugars          | 5g            |
+
+
+{{ page | inspect }}
