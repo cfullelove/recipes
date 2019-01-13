@@ -8,8 +8,6 @@ An easy keto low carb chili recipe without beans. Instructions for a Crock Pot s
 
 ![cover]({{ page.image_dir }}/{{ page.slug }}/cover.jpg)
 
-Page : {{ page.name }}
-
 # Summary
 
 * **Prep Time**: 15 minutes
@@ -66,5 +64,3 @@ Total Fat       | 18g           |
 Total Carbs     | 13g           |
 Sugars          | 5g            |
 
-
-{{ page | inspect }}
