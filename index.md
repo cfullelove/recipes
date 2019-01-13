@@ -1,5 +1,6 @@
 ---
 title: Recipe Repository
+layout: index
 ---
 
 # Recipes
