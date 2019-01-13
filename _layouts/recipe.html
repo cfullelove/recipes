@@ -23,5 +23,10 @@ layout: default
 {{ content }}
 
 <!--
-{{ page | jsonify }}
+{% for item in page %}
+    {% assign blacklist = "contents,previous,next" | slit: "," %}
+    {% unless blacklist contains item[0] %}
+        {{ item[0] }} : {{ item[1]}}
+    {% endunless %}
+{% endfor %}
 -->
