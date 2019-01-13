@@ -28,5 +28,6 @@ layout: default
     {% unless blacklist contains item[0] %}
         {{ item[0] }} : {{ item[1]}}
     {% endunless %}
+    {{ item | jsonify }}
 {% endfor %}
 -->
