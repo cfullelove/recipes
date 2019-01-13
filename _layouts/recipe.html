@@ -9,6 +9,7 @@ layout: default
     <b>Tags</b>: {{ page.tags }}<br />
 </p>
 
+{% if page.related | size > 0 %}
 <p>
     <b>Related: </b>
     <ul>
@@ -17,5 +18,6 @@ layout: default
         {% endfor %}
     </ul>
 </p>
+{% endif %}
 
 {{ content }}

@@ -6,7 +6,7 @@ source: https://www.wholesomeyum.com/recipes/low-carb-chili-in-crock-pot-or-inst
 
 An easy keto low carb chili recipe without beans. Instructions for a Crock Pot slow cooker or Instant Pot pressure cooker! Common ingredients & 15 min prep.
 
-![image]({{ page.image_dir }}/low-carb-crockpot-chilli.jpg)
+![cover]({{ page.image_dir }}/{{ page.name | replace: ".md", "" }}/cover.jpg)
 
 # Summary
 
