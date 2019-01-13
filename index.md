@@ -7,5 +7,5 @@ title: Recipe Repository
 | Recipe | Tags   |
 |---|---|
 {% for recipe in site.recipes | sort -%}
-| [{{ recipe.title }}]({{ recipe.url | relative_url }}) | {{recipe.tags | replace: ", ", "," | split: "," | join: ", "}} |
+| [{{ recipe.title }}]({{ recipe.url | relative_url }}) | {{recipe.tags | join: ", "}} |
 {% endfor -%}
